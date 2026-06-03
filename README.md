@@ -50,7 +50,7 @@ Compiling the code involves the following steps:
 2. Boostrap the build environment directory `<env-dir>`:
    ```
    cd grid-benchmark
-   ./bootstrap-env <env-dir> <system>
+   ./bootstrap-env.sh <env-dir> <system>
    ```
 
 3. Build GRID for both CPU and GPU configurations

@@ -235,7 +235,7 @@ Usage: validate.py <result_json_file>
 
 ```
 
-The reporting sheets ask explicitly for the values reported in the line ```48^4 DWF4 Performance```. All other values serve as sanity check only. 
+The reporting sheets ask explicitly for the value reported in the line ```48^4 DWF4 Performance```. All other values serve as sanity check only. 
 
 ### Reference data
 

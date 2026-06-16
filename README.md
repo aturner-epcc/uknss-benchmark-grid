@@ -235,7 +235,7 @@ Usage: validate.py <result_json_file>
 
 ```
 
-The evaluation sheets ask explicitly for the values reported in the lines ```32^4 DWF4 Performance``` and ```48^4 DWF4 Performance```. All other values serve as sanity check only. 
+The reporting sheets ask explicitly for the values reported in the line ```48^4 DWF4 Performance```. All other values serve as sanity check only. 
 
 ### Reference data
 
@@ -312,6 +312,7 @@ The following changes to this document have been made since initial release:
 
 | <div style="width:90px">Date</div> | Change |
 |-----------:|--------|
+| 2026-06-16 | Update to the relevant lines in the validation script |
 | 2026-05-14 | Update to the Grid repository commit ID to be used |
 | 2026-04-29 | Updates to Hunter reference data and additional clarifications on Benchmark_Grid parameters |
 
